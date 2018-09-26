@@ -14,12 +14,12 @@ We are using inbuilt elastic search of spring, we do  not require external elast
  # Database Configuration
  We are using in memory databasei.e H2 database for the application.
  
- #Database Table Structure
- [Ttable Structure] (https://github.com/thundercool/elasticsearch/blob/master/DBMS%20ER%20Diagram.png)
+ # Table Structure
+ https://github.com/thundercool/elasticsearch/blob/master/DBMS%20ER%20Diagram.png
  
  
  # Api Documentation
- For accessing api we have used swagger, which can be accessed via url - [Swagger Interface] (http://localhost:8080/swagger-ui.html)
+ For accessing api we have used swagger, which can be accessed via url - http://localhost:8080/swagger-ui.html
  
  # Json Structure 
  {
@@ -37,7 +37,7 @@ We are using inbuilt elastic search of spring, we do  not require external elast
   "date": 0
 }
 
-#Error Response 
+# Error Response Strucutre
 
 {
   "errorCode": "",
