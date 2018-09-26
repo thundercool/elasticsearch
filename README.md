@@ -1,7 +1,7 @@
 # Elasticsearch
 Elastic Search Sample Application Using Spring Data JPA and Spring Data Elastic Search. 
 
-As we are using inbuilt functionality of elastic search in spring, we do  not require external application running elastic search engine. 
+We are using inbuilt elastic search of spring, we do  not require external elastic search engine application to be running . 
 
 # Requirement
 1. Java 1.8 and above updated jre path
@@ -15,7 +15,7 @@ As we are using inbuilt functionality of elastic search in spring, we do  not re
  We are using in memory databasei.e H2 database for the application.
  
  #Database Table Structure
- Table
+ [Ttable Structure] (https://github.com/thundercool/elasticsearch/blob/master/DBMS%20ER%20Diagram.png)
  
  
  # Api Documentation
@@ -37,7 +37,12 @@ As we are using inbuilt functionality of elastic search in spring, we do  not re
   "date": 0
 }
 
+#Error Response 
 
+{
+  "errorCode": "",
+  "message": ""
+}
  
  
  
